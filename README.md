@@ -11,6 +11,7 @@
 + Webpage: https://github.com/tsung-wei-huang/ece6960-hetero/
 + Scoring: 
   + Programming Assignments
+  + Final Project and Presentation
   + No Exams
 + Office hour: by appointment
 + Textbook: No
@@ -39,6 +40,7 @@
 | :-:      | :-:    | :-:    | :-: | :-:        | :-: | 
 | 2023/01/09 | Introduction | [lecture1](Lectures/lecture1.pdf) | - | - | - |
 | 2023/01/11 | Parallel Architectures | [lecture2](Lectures/lecture2.pdf) | - | - | - |
+| 2023/01/16 | No class (Holiday) | - | - | - | - |
 
 
 # Acknowledgement
