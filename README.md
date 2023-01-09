@@ -9,11 +9,8 @@
 + Room: WEB L110
 + Zoom: https://utah.zoom.us/j/2468214418
 + Webpage: https://github.com/tsung-wei-huang/ece6960-hetero/
-+ Scoring
-  + Programming Assignment 1: 25 points
-  + Programming Assignment 2: 25 points
-  + Programming Assignment 3: 25 points
-  + Programming Assignment 4: 25 points
++ Scoring: 
+  + Programming Assignments
   + No Exams
 + Office hour: by appointment
 + Textbook: No
@@ -38,6 +35,7 @@
 | Lecture  | Topics | Slides | Assignment | Due | Note |
 | :-:      | :-:    | :-:    | :-: | :-:        | :-: | 
 | 2023/01/09 | Introduction | [lecture1](Lectures/lecture1.pdf) | - | - | - |
+| 2023/01/11 | Parallel Architectures | [lecture2](Lectures/lecture2.pdf) | - | - | - |
 
 
 # Acknowledgement
