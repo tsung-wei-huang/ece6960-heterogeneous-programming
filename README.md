@@ -39,8 +39,8 @@
 | Lecture  | Topics | Slides | Assignment | Due | Note |
 | :-:      | :-:    | :-:    | :-: | :-:        | :-: | 
 | 2023/01/09 | Introduction | [lecture1](Lectures/lecture1.pdf) | - | - | - |
-| 2023/01/11 | Parallel Architectures | [lecture2](Lectures/lecture2.pdf) | - | - | - |
 | 2023/01/16 | No class (Holiday) | - | - | - | - |
+| 2023/01/18 | Parallel Architectures | [lecture2](Lectures/lecture2.pdf) | - | - | - |
 
 
 # Acknowledgement
