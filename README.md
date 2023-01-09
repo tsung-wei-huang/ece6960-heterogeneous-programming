@@ -16,6 +16,9 @@
 + Textbook: No
 + [Utah ECE course catalog](https://student.apps.utah.edu/uofu/stu/ClassSchedules/main/1234/class_list.html?subject=ECE)
 
+# Announcement
+
+
 # Syllabus
 
 + Learn to program massively parallel processors and achieve
