@@ -19,6 +19,7 @@
 
 # Announcement
 
++ 2022/01/09: We won't have a class this Wed (1/11) due to a travel conflict.
 
 # Syllabus
 
