@@ -43,7 +43,9 @@
 | 2023/01/16 | No class (Holiday) | - | - | - | - |
 | 2023/01/18 | Parallel Architectures | [lecture2](Lectures/lecture2.pdf) | - | - | - |
 | 2023/01/23 | C++ Thread Programming - Thread Creation | [lecture3](Lectures/lecture3.pdf) | - | - | - |
-| 2023/01/25 | C++ Thread Programming - Mutex | [lecture3](Lectures/lecture3.pdf) | - | - | - |
+| 2023/01/25 | C++ Thread Programming - Mutex | [lecture4](Lectures/lecture3.pdf) | - | - | - |
+| 2023/01/30 | Asynchronous Tasks | [lecture5](Code/lecture5) | - | - | - |
+| 2023/02/01 | Job Queue | [lecture6](Code/lecture6) | - | - | - |
 
 
 # Acknowledgement
