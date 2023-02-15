@@ -19,7 +19,9 @@
 
 # Announcement
 
-+ 2022/01/09: We won't have a class this Wed (1/11) due to a travel conflict.
++ 2023/02/15: We won't have a class next Wed (2/22) due to a travel conflict.
++ 2023/02/15: [Programming Assignment #1](https://github.com/tsung-wei-huang/ece6960-heterogeneous-programming/issues/1) is released.
++ 2023/01/09: We won't have a class this Wed (1/11) due to a travel conflict.
 
 # Syllabus
 
@@ -49,7 +51,7 @@
 | 2023/02/06 | Condition Variable | [lecture7](Code/lecture7) | - | - | - |
 | 2023/02/08 | Job Queue with Condition Variables | [lecture8](Code/lecture8) | - | - | - |
 | 2023/02/13 | Threadpool | [lecture9](Code/lecture9) | - | - | - |
-
+| 2023/02/15 | Threadpool - II | [lecture10](Code/lecture10) | - | - | - |
 
 # Acknowledgement
 
