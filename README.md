@@ -52,6 +52,14 @@
 | 2023/02/08 | Job Queue with Condition Variables | [lecture8](Code/lecture8) | - | - | - |
 | 2023/02/13 | Threadpool | [lecture9](Code/lecture9) | - | - | - |
 | 2023/02/15 | Threadpool - II | [lecture10](Code/lecture10) | - | - | - |
+| 2023/02/20 | No class (Holiday) | - | - | - | - |
+| 2023/02/27 | Task Parallelism | [lecture11](Code/lecture11) | - | - | - |
+| 2023/02/29 | Pipeline Parallelism | - | - | - | - |
+
+# Acknowledgement
+
+Course materials are modified based on the following resources:
+  + [UIUC ECE 408 Applied Parallel Programming](https://ece.illinois.edu/academics/courses/ece408)
 
 # Acknowledgement
 
