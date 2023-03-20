@@ -57,7 +57,9 @@
 | 2023/03/01 | Pipeline Parallelism | - | - | - | - |
 | 2023/03/06 | Spring Break | - | - | - | - |
 | 2023/03/08 | Spring Break | - | - | - | - |
-| 2023/03/10 | Atomic Memory Ordering | [lecture12](Code/lecture12) | - | - | - |
+| 2023/03/13 | Atomic Memory Ordering | [lecture12](Code/lecture12) | - | - | - |
+| 2023/03/15 | Coroutine | - | - | - | - |
+| 2023/03/20 | Standard Parallel Algorithms | [lecture14](Code/lecture14) | - | - | - |
 
 
 # Acknowledgement
