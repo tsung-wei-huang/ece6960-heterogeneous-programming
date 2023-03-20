@@ -54,7 +54,11 @@
 | 2023/02/15 | Threadpool - II | [lecture10](Code/lecture10) | - | - | - |
 | 2023/02/20 | No class (Holiday) | - | - | - | - |
 | 2023/02/27 | Task Parallelism | [lecture11](Code/lecture11) | - | - | - |
-| 2023/02/29 | Pipeline Parallelism | - | - | - | - |
+| 2023/03/01 | Pipeline Parallelism | - | - | - | - |
+| 2023/03/06 | Spring Break | - | - | - | - |
+| 2023/03/08 | Spring Break | - | - | - | - |
+| 2023/03/10 | Atomic Memory Ordering | [lecture12](Code/lecture12) | - | - | - |
+
 
 # Acknowledgement
 
