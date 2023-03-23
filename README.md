@@ -58,7 +58,7 @@
 | 2023/03/06 | Spring Break | - | - | - | - |
 | 2023/03/08 | Spring Break | - | - | - | - |
 | 2023/03/13 | Atomic Memory Ordering | [lecture12](Code/lecture12) | - | - | - |
-| 2023/03/15 | Coroutine | - | - | - | - |
+| 2023/03/15 | Coroutine | [slides](Lectures/coroutine.pdf) [code](Code/coroutine) | - | - | - |
 | 2023/03/20 | Standard Parallel Algorithms | [lecture14](Code/lecture14) | - | - | - |
 | 2023/03/20 | Standard Parallel Algorithms - II | [lecture15](Code/lecture15) | - | - | - |
 
