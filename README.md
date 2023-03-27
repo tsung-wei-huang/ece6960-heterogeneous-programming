@@ -58,10 +58,10 @@
 | 2023/03/06 | Spring Break | - | - | - | - |
 | 2023/03/08 | Spring Break | - | - | - | - |
 | 2023/03/13 | Atomic Memory Ordering | [lecture12](Code/lecture12) | - | - | - |
-| 2023/03/15 | Coroutine | - | - | - | - |
+| 2023/03/15 | Coroutine | [slides](Lectures/coroutine.pdf) [code](Code/coroutine) | - | - | - |
 | 2023/03/20 | Parallel Iterations | [lecture14](Code/lecture14) | - | - | - |
 | 2023/03/22 | Parallel Iterations - Guided Scheduling | [lecture15](Code/lecture15) | - | - | - |
-| 2023/03/22 | Parallel Reduction | [lecture16](Code/lecture16) | - | - | - |
+| 2023/03/27 | Parallel Reduction | [lecture16](Code/lecture16) | - | - | - |
 
 
 # Acknowledgement
