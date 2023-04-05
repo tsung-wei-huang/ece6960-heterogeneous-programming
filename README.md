@@ -62,6 +62,9 @@
 | 2023/03/20 | Parallel Iterations | [lecture14](Code/lecture14) | - | - | - |
 | 2023/03/22 | Parallel Iterations - Guided Scheduling | [lecture15](Code/lecture15) | - | - | - |
 | 2023/03/27 | Parallel Reduction | [lecture16](Code/lecture16) | - | - | - |
+| 2023/03/29 | Parallel Transform | [lecture17](Code/lecture17) | - | - | - |
+| 2023/04/03 | CUDA Intro - I| [lecture18](Code/lecture18) | - | - | - |
+| 2023/04/05 | CUDA Intro - II | [lecture19](Code/lecture19) | - | - | - |
 
 
 # Acknowledgement
