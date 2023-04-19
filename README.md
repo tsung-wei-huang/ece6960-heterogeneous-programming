@@ -67,6 +67,7 @@
 | 2023/04/05 | CUDA Intro - II | [lecture19](Code/lecture19) | - | - | - |
 | 2023/04/10 | Kernel Unrolling | [lecture20](Code/lecture20) | - | - | - |
 | 2023/04/12 | Standard GPU Algorithms | [lecture21](Code/lecture21) | - | - | - |
+| 2023/04/17 | GPU Find Algorithm | [lecture22](Code/lecture22) | - | - | - |
 
 
 # Acknowledgement
